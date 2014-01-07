@@ -1,4 +1,3 @@
 Rabbit
 ======
-
-Rabbit unit test game
+Rabbit Unity 2d test game
